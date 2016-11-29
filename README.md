@@ -1,0 +1,2 @@
+# Assignement
+NDVI calculation
